@@ -47,19 +47,46 @@ A curated collection of knowledge and resources for robotics research.
 - [[ICRA 2025] Beyond the Lab: Robust Planning and Control in Real World Scenarios](https://sites.google.com/view/robust-planning-icra2025-ws)
 
 
-## Conference
+## 🦾 Conferences & Journals
 
+### Conferences
+
+- [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
 - [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) 
 - [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
-- [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
 - [International Symposium of Robotics Research](http://ifrr.org/isrr)
 - [International Symposium of Experimental Robotics](http://ifrr.org/iser)
 - [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
 
+### Journals
+- [Science Robotics](https://www.science.org/journal/scirobotics)
+- [IEEE Transactions on Robotics (T-RO)](https://www.ieee-ras.org/publications/t-ro)
+- [The International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)
+- [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967)
+
+### Machine Learning & AI Conferences
+
+- [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/)
+- [ICLR (International Conference on Learning Representations)](https://iclr.cc/)
+- [ICML (International Conference on Machine Learning)](https://icml.cc/)
+- [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/)
+- [ACL (Annual Meeting of the Association for Computational Linguistics)](https://aclweb.org/portal/)
+
+
+### 👁️‍🗨️ Computer Vision & Embodied Perception Conferences
+
+- [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/)
+- [ICCV (IEEE International Conference on Computer Vision)](https://iccv2023.thecvf.com/)
+- [ECCV (European Conference on Computer Vision)](https://eccv2024.ecva.net/)
+
 ## Rankings
 
 - [Roboranking: A Robotics Faculty Hub and University Ranking System](https://roboranking.org/)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
+
+## Deadline
+- [AI Conference Deadlines](https://aideadlin.es/)
+- [CCF Recommendation Conference Deadline Countdowns](https://ccfddl.com/)
