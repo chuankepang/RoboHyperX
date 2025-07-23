@@ -1,6 +1,9 @@
 # RoboVerse
+
 A curated collection of knowledge and resources for robotics research.
+
 ## Workshops
+
 - [[RSS 2025] Benchmarking Robot Manipulation: Improving Interoperability and Modularity](https://www.robot-manipulation.org/events/workshops/rss-2025)
 - [[RSS 2025] 3rd Workshop on Dexterous Manipulation: Learning and Control with Diverse Data](https://dex-manipulation.github.io/rss2025/)
 - [[RSS 2025] Equivariant Systems: Theory and Applications in State Estimation, Artificial Intelligence and Control](https://equisystems.github.io/)
@@ -42,3 +45,21 @@ A curated collection of knowledge and resources for robotics research.
 - [[ICRA 2025] Language and Semantics of Task and Motion Planning](https://dyalab.mines.edu/2025/icra-workshop/)
 - [[ICRA 2025] Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
 - [[ICRA 2025] Beyond the Lab: Robust Planning and Control in Real World Scenarios](https://sites.google.com/view/robust-planning-icra2025-ws)
+
+
+## Conference
+
+- [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) 
+- [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
+- [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
+- [International Symposium of Robotics Research](http://ifrr.org/isrr)
+- [International Symposium of Experimental Robotics](http://ifrr.org/iser)
+- [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
+- [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
+- [ROSCon](https://roscon.ros.org/)
+
+## Rankings
+
+- [Roboranking: A Robotics Faculty Hub and University Ranking System](https://roboranking.org/)
+- [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
+- [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
