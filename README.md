@@ -28,6 +28,7 @@ A curated collection of knowledge and resources for robotics research.
 - [[RSS 2025] 2nd Workshop on Semantic Reasoning and Goal Understanding in Robotics (SemRob)](https://semrob.github.io/)
 - [[RSS 2025] Space Robotics: Toward the Next Generation of Autonomous Missions](https://albee.github.io/space-robotics-rss/)
 - [[RSS 2025] Structured World Models for Robotic Manipulation](https://swomo-rss.github.io/)
+---
 - [[ICRA 2025] 7th Workshop on Long-Term Human Motion Prediction](https://motionpredictionicra2025.github.io/)
 - [[ICRA 2025] Foundation Models and Neuro-Symbolic AI for Robotics](https://sairlab.org/icra25/)
 - [[ICRA 2025] Human-Centered Robot Learning in the Era of Big Data and Large Models](https://human-cenetered-robot-learning-workshop.github.io/icra-2025/)
@@ -59,6 +60,16 @@ A curated collection of knowledge and resources for robotics research.
 - [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
+---
+- [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/)
+- [ICCV (IEEE International Conference on Computer Vision)](https://iccv2023.thecvf.com/)
+- [ECCV (European Conference on Computer Vision)](https://eccv2024.ecva.net/)
+---
+- [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/)
+- [ICLR (International Conference on Learning Representations)](https://iclr.cc/)
+- [ICML (International Conference on Machine Learning)](https://icml.cc/)
+- [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/)
+- [ACL (Annual Meeting of the Association for Computational Linguistics)](https://aclweb.org/portal/)
 
 ### Journals
 - [Science Robotics](https://www.science.org/journal/scirobotics)
@@ -66,20 +77,6 @@ A curated collection of knowledge and resources for robotics research.
 - [The International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)
 - [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967)
 
-### Machine Learning & AI Conferences
-
-- [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/)
-- [ICLR (International Conference on Learning Representations)](https://iclr.cc/)
-- [ICML (International Conference on Machine Learning)](https://icml.cc/)
-- [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/)
-- [ACL (Annual Meeting of the Association for Computational Linguistics)](https://aclweb.org/portal/)
-
-
-### 👁️‍🗨️ Computer Vision & Embodied Perception Conferences
-
-- [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/)
-- [ICCV (IEEE International Conference on Computer Vision)](https://iccv2023.thecvf.com/)
-- [ECCV (European Conference on Computer Vision)](https://eccv2024.ecva.net/)
 
 ## Rankings
 
