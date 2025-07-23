@@ -52,6 +52,8 @@ A curated collection of knowledge and resources for robotics research.
 
 ### Conferences
 
+#### Robotics
+
 - [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
 - [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) 
 - [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
@@ -60,11 +62,15 @@ A curated collection of knowledge and resources for robotics research.
 - [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
 - [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
 - [ROSCon](https://roscon.ros.org/)
----
+
+#### Computer Vision & Embodied Perception Conferences
+
 - [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/)
 - [ICCV (IEEE International Conference on Computer Vision)](https://iccv2023.thecvf.com/)
 - [ECCV (European Conference on Computer Vision)](https://eccv2024.ecva.net/)
----
+
+#### Machine Learning & AI
+
 - [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/)
 - [ICLR (International Conference on Learning Representations)](https://iclr.cc/)
 - [ICML (International Conference on Machine Learning)](https://icml.cc/)
@@ -72,10 +78,47 @@ A curated collection of knowledge and resources for robotics research.
 - [ACL (Annual Meeting of the Association for Computational Linguistics)](https://aclweb.org/portal/)
 
 ### Journals
+
+#### Robotics Journals
+
 - [Science Robotics](https://www.science.org/journal/scirobotics)
 - [IEEE Transactions on Robotics (T-RO)](https://www.ieee-ras.org/publications/t-ro)
 - [The International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)
 - [Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/journal/15564967)
+- [Autonomous Robots](https://www.springer.com/journal/10514)
+- [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)
+- [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)
+- [Advanced Intelligent Systems](https://onlinelibrary.wiley.com/journal/26404567)
+- [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)
+
+#### Computer Vision Journals
+
+- [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263)
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+- [Computer Vision and Image Understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
+- [Image and Vision Computing (IVC)](https://www.journals.elsevier.com/image-and-vision-computing)
+- [Machine Vision and Applications](https://www.springer.com/journal/138)
+- [Journal of Vision Research](https://www.journals.elsevier.com/vision-research)
+
+#### Machine Learning / AI Journals
+
+- [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)
+- [Machine Learning (Springer)](https://www.springer.com/journal/10994)
+- [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+- [Neural Computation (MIT Press)](https://direct.mit.edu/neco)
+- [Artificial Intelligence (Elsevier)](https://www.sciencedirect.com/journal/artificial-intelligence)
+- [AI Open](https://www.journals.elsevier.com/ai-open)
+- [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+- [Transactions of the Association for Computational Linguistics (TACL)](https://transacl.org/)
+- [Foundations and Trends in Machine Learning](https://www.nowpublishers.com/Journal/MAL)
+
+#### Interdisciplinary / Systems-Oriented Journals (CV+ML+Robotics)
+
+- [IEEE Robotics and Automation Magazine (RAM)](https://www.ieee-ras.org/publications/ram)
+- [ACM Transactions on Graphics (TOG)](https://tog.acm.org/)
+- [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+- [IEEE Transactions on Cybernetics](https://cis.ieee.org/publications/t-cybernetics)
+- [Sensors (Robotics Section)](https://www.mdpi.com/journal/sensors/sections/robotics)
 
 
 ## Rankings
