@@ -66,6 +66,21 @@ A curated collection of knowledge and resources for robotics research.
 - [[RSS 2024] Towards Safe Autonomy: Emerging Requirements, Definitions, and Methods](https://sites.google.com/view/rss2024-safe-autonomy/home)
 - [[RSS 2024] Semantic Reasoning and Goal Understanding in Robotics (SemRob)](https://semrob.github.io/)
 
+---
+
+- [[RSS 2023] Learning Dexterous Manipulation](https://learn-dex-hand.github.io/rss2023/)
+- [[RSS 2023] Articulate Robots: Utilizing Language for Robot Learning](https://sites.google.com/andrew.cmu.edu/rss-2023-articulate-robots/home)
+- [[RSS 2023] Taking Mobile Manipulators into the Real World](https://jhavl.github.io/RealWorldManipulation/)
+- [[RSS 2023] Toward Natural Motion Generation](https://toward-natural-motion-generation.github.io/rss2023/)
+- [[RSS 2023] Towards Safe Autonomy: New Challenges and Trends in Robot Perception](https://sites.google.com/view/rss2023-safe-autonomy)
+- [[RSS 2023] Datasets and Benchmarking Tools for Advancing and Evaluating Robotic Manufacturing](https://sites.google.com/view/rss-2023-nist-moad)
+- [[RSS 2023] Interdisciplinary Exploration of Generalizable Manipulation Policy Learning: Paradigms and Debates](https://ai-workshops.github.io/interdisciplinary-exploration-of-gmpl/)
+- [[RSS 2023] Robot Representations for Scene Understanding, Reasoning and Planning](https://mit-spark.github.io/robotRepresentations-RSS2023/)
+- [[RSS 2023] Experiment-oriented Locomotion and Manipulation Research](https://rss-ws-2023-lm.github.io/)
+- [[RSS 2023] Learning for Task and Motion Planning](https://zt-yang.github.io/rss23-l4tamp-workshop/)
+- [[RSS 2023] Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym)
+- [[RSS 2023] Variable Impedance Learning and Control: From the Foundations to the Future Perspectives](https://sites.google.com/view/vic-ws-rss23/)
+
 
 ## 🦾 Conferences & Journals
 
