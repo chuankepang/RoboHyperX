@@ -47,6 +47,9 @@ A curated collection of knowledge and resources for robotics research.
 - [[ICRA 2025] Language and Semantics of Task and Motion Planning](https://dyalab.mines.edu/2025/icra-workshop/)
 - [[ICRA 2025] Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
 - [[ICRA 2025] Beyond the Lab: Robust Planning and Control in Real World Scenarios](https://sites.google.com/view/robust-planning-icra2025-ws)
+---
+- [[RSS 2024] 2nd Workshop on Dexterous Manipulation:Design, Perception and Control](https://dex-manipulation.github.io/rss2024)
+- [[RSS 2024] Safety and Normative Behaviors in Human-Robot Interaction](https://sites.google.com/view/safe-hri/)
 
 
 ## 🦾 Conferences & Journals
