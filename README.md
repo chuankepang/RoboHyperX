@@ -50,6 +50,21 @@ A curated collection of knowledge and resources for robotics research.
 ---
 - [[RSS 2024] 2nd Workshop on Dexterous Manipulation:Design, Perception and Control](https://dex-manipulation.github.io/rss2024)
 - [[RSS 2024] Safety and Normative Behaviors in Human-Robot Interaction](https://sites.google.com/view/safe-hri/)
+- [[RSS 2024] Data Generation for Robotics](https://sites.google.com/view/data-generation-for-robotics/home)
+- [[RSS 2024] EARL: Embodiment-Aware Robot Learning (EARL)](https://sites.google.com/view/wearl)
+- [[RSS 2024] GenAI-HRI: Generative modeling meets human-robot interaction](https://sites.google.com/view/gai-hri/home)
+- [[RSS 2024] Learning for Assistive Robotics](https://sites.google.com/view/rss2024-assistive-robotics)
+- [[RSS 2024] Open-Set Robot Perception in the Wild](https://open-set-robotics.github.io/)
+- [[RSS 2024] Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction](https://www.dynsyslab.org/rss24-workshop-on-semantics-for-robotics/)
+- [[RSS 2024] Tutorial: Supervised Policy Learning for Real Robots](https://supervised-robot-learning.github.io/)
+- [[RSS 2024] Geometric and Algebraic Structure in Robot Learning](https://sites.google.com/view/gas-rl-rss2024)
+- [[RSS 2024] Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/proposal.html)
+- [[RSS 2024] GROUND: advancing GROup UNderstanding and robots' aDaptive behavior](https://ground-hri.github.io/workshop/)
+- [[RSS 2024] Lifelong Robot Learning: Generalization, Adaptation, and Deployment with Large Models](https://sites.google.com/view/lifelong-robot-learning)
+- [[RSS 2024] Navigation & Mobile Manipulation in Challenging and Cluttered Natural Environments](https://nature-bots.github.io/)
+- [[RSS 2024] Robotic Tasks and How to Specify Them? — Task Specification for General-Purpose Intelligent Robots](https://sites.google.com/view/rss-taskspec)
+- [[RSS 2024] Towards Safe Autonomy: Emerging Requirements, Definitions, and Methods](https://sites.google.com/view/rss2024-safe-autonomy/home)
+- [[RSS 2024] Semantic Reasoning and Goal Understanding in Robotics (SemRob)](https://semrob.github.io/)
 
 
 ## 🦾 Conferences & Journals
