@@ -1,6 +1,5 @@
 # RoboHyperX🤖
 
-
 A curated collection of knowledge and resources for robotics research.
 
 ## Workshops
@@ -82,34 +81,7 @@ A curated collection of knowledge and resources for robotics research.
 - [[RSS 2023] Variable Impedance Learning and Control: From the Foundations to the Future Perspectives](https://sites.google.com/view/vic-ws-rss23/)
 
 
-## 🦾 Conferences & Journals
-
-### Conferences
-
-#### Robotics
-
-- [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
-- [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) 
-- [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
-- [International Symposium of Robotics Research](http://ifrr.org/isrr)
-- [International Symposium of Experimental Robotics](http://ifrr.org/iser)
-- [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
-- [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
-- [ROSCon](https://roscon.ros.org/)
-
-#### Computer Vision & Embodied Perception Conferences
-
-- [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/)
-- [ICCV (IEEE International Conference on Computer Vision)](https://iccv2023.thecvf.com/)
-- [ECCV (European Conference on Computer Vision)](https://eccv2024.ecva.net/)
-
-#### Machine Learning & AI
-
-- [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/)
-- [ICLR (International Conference on Learning Representations)](https://iclr.cc/)
-- [ICML (International Conference on Machine Learning)](https://icml.cc/)
-- [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/)
-- [ACL (Annual Meeting of the Association for Computational Linguistics)](https://aclweb.org/portal/)
+## Conferences & Journals
 
 ### Journals
 
@@ -153,6 +125,39 @@ A curated collection of knowledge and resources for robotics research.
 - [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 - [IEEE Transactions on Cybernetics](https://cis.ieee.org/publications/t-cybernetics)
 - [Sensors (Robotics Section)](https://www.mdpi.com/journal/sensors/sections/robotics)
+
+### Conferences
+
+#### Robotics
+
+- [Robotics: Science and Systems (RSS)](https://roboticsconference.org) 
+- [IEEE International Conference on Robotics and Automation (ICRA)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) 
+- [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
+- [International Symposium of Robotics Research](http://ifrr.org/isrr)
+- [International Symposium of Experimental Robotics](http://ifrr.org/iser)
+- [Workshop on the Algorithmic Foundations of Robotics](http://ifrr.org/wafr)
+- [Conference on Nonlinear Model Predictive Control](https://nmpc2024.org/)
+- [ROSCon](https://roscon.ros.org/)
+
+#### Computer Vision & Embodied Perception Conferences
+
+- [CVPR (IEEE Conference on Computer Vision and Pattern Recognition)](https://cvpr.thecvf.com/)
+- [ICCV (IEEE International Conference on Computer Vision)](https://iccv2023.thecvf.com/)
+- [ECCV (European Conference on Computer Vision)](https://eccv2024.ecva.net/)
+
+#### Machine Learning & AI
+
+- [NeurIPS (Conference on Neural Information Processing Systems)](https://nips.cc/)
+- [ICLR (International Conference on Learning Representations)](https://iclr.cc/)
+- [ICML (International Conference on Machine Learning)](https://icml.cc/)
+- [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/)
+- [ACL (Annual Meeting of the Association for Computational Linguistics)](https://aclweb.org/portal/)
+
+### Seminars
+
+- [视觉与学习青年学者研讨会（Vision And Learning SEminar, VALSE）](https://valser.org/)
+- [北京智源大会（BAAI Conference）](https://www.baai.ac.cn/)
+- [中国具身智能大会（China Embodied AI Conference, CEAI）](https://ceai.caai.cn/)
 
 
 ## Rankings
