@@ -1,8 +1,8 @@
-# RoboHyperX🤖
+# 🤖RoboHyperX🤖
 
 A curated collection of knowledge and resources for robotics research.
 
-## Workshops
+## 🛠️Workshops
 
 - [[RSS 2025] Benchmarking Robot Manipulation: Improving Interoperability and Modularity](https://www.robot-manipulation.org/events/workshops/rss-2025)
 - [[RSS 2025] 3rd Workshop on Dexterous Manipulation: Learning and Control with Diverse Data](https://dex-manipulation.github.io/rss2025/)
@@ -81,7 +81,7 @@ A curated collection of knowledge and resources for robotics research.
 - [[RSS 2023] Variable Impedance Learning and Control: From the Foundations to the Future Perspectives](https://sites.google.com/view/vic-ws-rss23/)
 
 
-## Conferences & Journals
+## 🏛️Conferences & Journals
 
 ### Journals
 
@@ -160,12 +160,12 @@ A curated collection of knowledge and resources for robotics research.
 - [中国具身智能大会（China Embodied AI Conference, CEAI）](https://ceai.caai.cn/)
 
 
-## Rankings
+## 📊Rankings
 
 - [Roboranking: A Robotics Faculty Hub and University Ranking System](https://roboranking.org/)
 - [A.I. Author Rankings by Publications](https://airankings.professor-x.de/)
 - [A Normalized Professor Placement Guide to CS PhD Rankings](https://sethkarten.github.io/professor)
 
-## Deadline
+## ⏳Deadline
 - [AI Conference Deadlines](https://aideadlin.es/)
 - [CCF Recommendation Conference Deadline Countdowns](https://ccfddl.com/)
