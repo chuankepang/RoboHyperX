@@ -169,3 +169,8 @@ A curated collection of knowledge and resources for robotics research.
 ## ⏳Deadline
 - [AI Conference Deadlines](https://aideadlin.es/)
 - [CCF Recommendation Conference Deadline Countdowns](https://ccfddl.com/)
+
+## Courses
+- [CS 4756 Robot Learning](https://www.cs.cornell.edu/courses/cs4756/2024fa/)
+- [16-831 Introduction to Robot Learning](https://16-831.github.io/spring25/)
+- [16-745 Optimal Control and Reinforcement Learning](https://optimalcontrol.ri.cmu.edu/)
