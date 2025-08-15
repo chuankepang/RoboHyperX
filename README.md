@@ -4,6 +4,7 @@ A curated collection of knowledge and resources for robotics research.
 
 - [RoboHyperX](#robohyperx)
   - [Papers](#papers)
+    - [Policy](#policy)
     - [VLA](#vla)
   - [Manipulation](#manipulation)
   - [Teleoperation](#teleoperation)
@@ -17,7 +18,13 @@ A curated collection of knowledge and resources for robotics research.
 ---
 ## Papers
 
+### Policy
+- [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
+- [arXiv 2023.04](https://arxiv.org/abs/2304.13705), Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [website](https://tonyzhaozh.github.io/aloha/), [github](https://github.com/tonyzhaozh/act)
+- [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
+
 ### VLA
+- []()
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ## 🛠️Workshops
