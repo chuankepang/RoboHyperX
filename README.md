@@ -6,7 +6,7 @@ A curated collection of knowledge and resources for robotics research.
   - [Papers](#papers)
     - [Policy](#policy)
     - [VLA](#vla)
-  - [Workshops](#workshops)
+  - [Workshops](#🛠️Workshops)
  
 ---
 ## Papers
