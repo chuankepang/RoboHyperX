@@ -29,7 +29,7 @@ A curated collection of knowledge and resources for robotics research.
 - [arXiv 2024.10](https://arxiv.org/abs/2410.24164), π0: A Vision-Language-Action Flow Model for General Robot Control, [website](https://www.physicalintelligence.company/blog/pi0), [github](https://github.com/Physical-Intelligence/openpi)
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
-## 🛠️Workshops
+## Workshops
 
 - [[RSS 2025] Benchmarking Robot Manipulation: Improving Interoperability and Modularity](https://www.robot-manipulation.org/events/workshops/rss-2025)
 - [[RSS 2025] 3rd Workshop on Dexterous Manipulation: Learning and Control with Diverse Data](https://dex-manipulation.github.io/rss2025/)
