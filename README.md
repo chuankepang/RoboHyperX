@@ -18,6 +18,7 @@ A curated collection of knowledge and resources for robotics research.
 ## Papers
 
 ### VLA
+- [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ## 🛠️Workshops
 
