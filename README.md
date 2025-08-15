@@ -8,6 +8,7 @@ A curated collection of knowledge and resources for robotics research.
     - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
     - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
     - [Humanoid Manipulation](#humanoid-manipulation)
+    - [Legged Robot](#legged-robot)
   - [Workshops](#workshops)
   - [Pub-list](#conferences--journals)
   - [Rankings](#rankings)
