@@ -40,11 +40,16 @@ A curated collection of knowledge and resources for robotics research.
 ### Humanoid Loco-Manipulation (WBC)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.08241), BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion, [website](https://beyondmimic.github.io/)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.06905), ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, [website](https://ulc-humanoid.github.io/)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.02833), TWIST: Teleoperated Whole-Body Imitation System, [website](https://yanjieze.com/TWIST/), [github](https://github.com/YanjieZe/TWIST)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/), [github](https://github.com/LeCAR-Lab/FALCON/)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.24198), Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, [website](https://lecar-lab.github.io/SoFTA/), [github](https://github.com/LeCAR-Lab/SoFTA)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
 
 ### Humanoid Manipulation
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
+
+### Legged Robot
+- [arXiv 2025.05](https://arxiv.org/abs/2505.22974), Learning coordinated badminton skills for legged manipulators
 
 ## Workshops
 
