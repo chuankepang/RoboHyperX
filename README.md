@@ -15,6 +15,7 @@ A curated collection of knowledge and resources for robotics research.
  
 ---
 ## Papers
+<!-- (- [](), [](), []() ) -->
 
 ### Policy
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
@@ -33,6 +34,15 @@ A curated collection of knowledge and resources for robotics research.
 - [arXiv 2025.01](https://arxiv.org/abs/2501.15830), SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models, [website](https://spatialvla.github.io/), [github](https://github.com/SpatialVLA/SpatialVLA)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.24164), π0: A Vision-Language-Action Flow Model for General Robot Control, [website](https://www.physicalintelligence.company/blog/pi0), [github](https://github.com/Physical-Intelligence/openpi)
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
+
+### Humanoid Loco-Manipulation (WBC)
+- [arXiv 2025.08](https://arxiv.org/abs/2508.08241), BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion, [website](https://beyondmimic.github.io/)
+- [arXiv 2025.07](https://arxiv.org/abs/2507.06905), ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, [website](https://ulc-humanoid.github.io/)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/), [github](https://github.com/LeCAR-Lab/FALCON/)
+- [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
+
+### Humanoid Manipulation
+- [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
 
 ## Workshops
 
