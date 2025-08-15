@@ -2,6 +2,23 @@
 
 A curated collection of knowledge and resources for robotics research.
 
+- [RoboHyperX](🤖RoboHyperX🤖)
+  - [Papers](#papers)
+    - [VLA](#vla)
+  - [Manipulation](#manipulation)
+  - [Teleoperation](#teleoperation)
+  - [Locomotion and Navigation](#locomotion-and-navigation)
+  - [Sim-to-Real](#sim-to-real)
+  - [Hardware Design](#hardware-design)
+  - [Simulation Benchmark](#simulation-benchmark)
+  - [Physics-Based Character Animation](#physics-based-character-animation)
+  - [Human Motion Analysis and Synthesis](#human-motion-analysis-and-synthesis)
+ 
+---
+## Papers
+
+### VLA
+
 ## 🛠️Workshops
 
 - [[RSS 2025] Benchmarking Robot Manipulation: Improving Interoperability and Modularity](https://www.robot-manipulation.org/events/workshops/rss-2025)
