@@ -4,8 +4,8 @@ A curated collection of knowledge and resources for robotics research.
 
 - [RoboHyperX](#robohyperx)
   - [Papers](#papers)
-    - [Policy](#policy)
-    - [VLA](#vla)
+    - [Robot Manipulation Policy](#robot-manipulation-policy)
+    - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
     - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
     - [Humanoid Manipulation](#humanoid-manipulation)
   - [Workshops](#workshops)
@@ -19,14 +19,14 @@ A curated collection of knowledge and resources for robotics research.
 ## Papers
 <!-- (- [](), [](), []() ) -->
 
-### Policy
+### Robot Manipulation Policy
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 - [arXiv 2024.03](https://arxiv.org/abs/2403.03954), 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [website](https://3d-diffusion-policy.github.io/), [github](https://github.com/YanjieZe/3D-Diffusion-Policy)
 - [arXiv 2023.04](https://arxiv.org/abs/2304.13705), Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [website](https://tonyzhaozh.github.io/aloha/), [github](https://github.com/tonyzhaozh/act)
 - [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
 
-### VLA
+### Vision-Language-Action Model (VLA)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07917), MolmoAct: Action Reasoning Models that can Reason in Space, [website](https://allenai.org/blog/molmoact), [github](https://github.com/allenai/MolmoAct)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.04447), DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge, [website](https://zhangwenyao1.github.io/DreamVLA/), [github](https://github.com/Zhangwenyao1/DreamVLA)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.07961), BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models, [website](https://bridgevla.github.io/home_page.html), [github](https://github.com/BridgeVLA/BridgeVLA)
