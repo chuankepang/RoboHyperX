@@ -6,7 +6,7 @@ A curated collection of knowledge and resources for robotics research.
   - [Papers](#papers)
     - [Policy](#policy)
     - [VLA](#vla)
-    - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-(wbc))
+    - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
     - [Humanoid Manipulation](#humanoid-manipulation)
   - [Workshops](#workshops)
   - [Pub-list](#conferences--journals)
