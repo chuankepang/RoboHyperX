@@ -20,7 +20,7 @@ A curated collection of knowledge and resources for robotics research.
 
 ### Policy
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
-- [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 - [arXiv 2024.03](https://arxiv.org/abs/2403.03954), 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [website](https://3d-diffusion-policy.github.io/), [github](https://github.com/YanjieZe/3D-Diffusion-Policy)
 - [arXiv 2023.04](https://arxiv.org/abs/2304.13705), Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [website](https://tonyzhaozh.github.io/aloha/), [github](https://github.com/tonyzhaozh/act)
 - [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
@@ -32,7 +32,7 @@ A curated collection of knowledge and resources for robotics research.
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06111), UniVLA: Learning to Act Anywhere with Task-centric Latent Actions, [github](https://github.com/OpenDriveLab/UniVLA)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.08950), FP3: A 3D Foundation Policy for Robotic Manipulation, [website](https://3d-foundation-policy.github.io/), [github](https://github.com/horipse01/3d-foundation-policy)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.07511), PointVLA: Injecting the 3D World into Vision-Language-Action Models, [website](https://pointvla.github.io/)
-- [arXiv 2025.01][https://arxiv.org/abs/2501.15830], SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models, [website](https://spatialvla.github.io/), [github](https://github.com/SpatialVLA/SpatialVLA)
+- [arXiv 2025.01](https://arxiv.org/abs/2501.15830), SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models, [website](https://spatialvla.github.io/), [github](https://github.com/SpatialVLA/SpatialVLA)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.24164), π0: A Vision-Language-Action Flow Model for General Robot Control, [website](https://www.physicalintelligence.company/blog/pi0), [github](https://github.com/Physical-Intelligence/openpi)
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
