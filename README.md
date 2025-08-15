@@ -2,7 +2,7 @@
 
 A curated collection of knowledge and resources for robotics research.
 
-- [RoboHyperX](🤖robohyperx🤖)
+- [RoboHyperX](#robohyperx)
   - [Papers](#papers)
     - [VLA](#vla)
   - [Manipulation](#manipulation)
