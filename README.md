@@ -51,6 +51,7 @@ A curated collection of knowledge and resources for robotics research.
 
 ### Legged Robot
 - [arXiv 2025.05](https://arxiv.org/abs/2505.22974), Learning coordinated badminton skills for legged manipulators
+- [arXiv 2024.01](https://arxiv.org/abs/2401.17583), Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion, [website](https://agile-but-safe.github.io/), [github](https://github.com/LeCAR-Lab/ABS)
 
 ## Workshops
 
