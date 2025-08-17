@@ -20,6 +20,13 @@ A curated collection of knowledge and resources for robotics research.
 ## Papers
 <!-- (- [](), [](), []() ) -->
 
+### Survey
+- [arXiv 2025.07](https://arxiv.org/abs/2404.19664), Towards Generalist Robot Learning from Internet Video: A Survey
+- [arXiv 2025.07](https://arxiv.org/abs/2507.00917), A Survey: Learning Embodied Intelligence from
+Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
+- [arXiv 2025.01](https://arxiv.org/abs/2501.02116), Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
+- [BIROB 2025.03](https://www.sciencedirect.com/science/article/pii/S266737972400055X), A survey on the visual perception of humanoid robot
+
 ### Robot Manipulation Policy
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
@@ -47,6 +54,7 @@ A curated collection of knowledge and resources for robotics research.
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
 
 ### Humanoid Manipulation
+- [arXiv 2025.02](https://arxiv.org/abs/2502.13134), RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations, [website](https://humanoid-interaction.github.io/), [github](https://github.com/TimerChen/RHINO)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
 
 ### Legged Robot
