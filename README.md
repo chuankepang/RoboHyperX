@@ -1,6 +1,6 @@
 # 🤖RoboHyperX🤖
 
-Basic Info. This repo collects curated academic papers, knowledge, and resources about robot learning.
+**Basic Info**. This repo collects curated academic papers, knowledge, and resources about robot learning.
 
 - [RoboHyperX](#robohyperx)
   - [Papers](#papers)
