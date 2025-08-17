@@ -28,9 +28,11 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [BIROB 2025.03](https://www.sciencedirect.com/science/article/pii/S266737972400055X), A survey on the visual perception of humanoid robot
 
 ### Robot Manipulation Policy
+- [arXiv 2024.05](https://arxiv.org/abs/2405.20321), ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graphs, [website](https://ut-austin-rpl.github.io/ORION-release/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 - [arXiv 2024.03](https://arxiv.org/abs/2403.03954), 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [website](https://3d-diffusion-policy.github.io/), [github](https://github.com/YanjieZe/3D-Diffusion-Policy)
+- [arXiv 2023.10](https://arxiv.org/abs/2302.12422), MimicPlay: Long-Horizon Imitation Learning by Watching Human Play, [website](https://mimic-play.github.io/), [github](https://github.com/j96w/MimicPlay)
 - [arXiv 2023.04](https://arxiv.org/abs/2304.13705), Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [website](https://tonyzhaozh.github.io/aloha/), [github](https://github.com/tonyzhaozh/act)
 - [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
 
