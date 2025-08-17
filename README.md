@@ -4,6 +4,7 @@ A curated collection of knowledge and resources for robotics research.
 
 - [RoboHyperX](#robohyperx)
   - [Papers](#papers)
+    - [Surveys](#Surveys)
     - [Robot Manipulation Policy](#robot-manipulation-policy)
     - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
     - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
@@ -20,7 +21,7 @@ A curated collection of knowledge and resources for robotics research.
 ## Papers
 <!-- (- [](), [](), []() ) -->
 
-### Survey
+### Surveys
 - [arXiv 2025.07](https://arxiv.org/abs/2404.19664), Towards Generalist Robot Learning from Internet Video: A Survey
 - [arXiv 2025.07](https://arxiv.org/abs/2507.00917), A Survey: Learning Embodied Intelligence from
 Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
