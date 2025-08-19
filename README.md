@@ -10,6 +10,7 @@
     - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
     - [Humanoid Manipulation](#humanoid-manipulation)
     - [Legged Robot](#legged-robot)
+    - [Others](#others)
   - [Workshops](#workshops)
   - [Pub-list](#conferences--journals)
   - [Rankings](#rankings)
@@ -63,6 +64,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 ### Legged Robot
 - [arXiv 2025.05](https://arxiv.org/abs/2505.22974), Learning coordinated badminton skills for legged manipulators
 - [arXiv 2024.01](https://arxiv.org/abs/2401.17583), Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion, [website](https://agile-but-safe.github.io/), [github](https://github.com/LeCAR-Lab/ABS)
+
+### Others
+- [arXiv 2023.12](https://arxiv.org/abs/2312.04393), PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, [website](https://wyhuai.github.io/physhoi-page/), [github](https://github.com/wyhuai/PhysHOI)
 
 ## Workshops
 
