@@ -17,6 +17,7 @@
   - [Deadline](#deadline)
   - [Courses](#courses)
   - [Blog](#blog)
+  - [Insights](#insights)
  
 ---
 ## Papers
@@ -261,3 +262,11 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [MIT News - Robotics](https://news.mit.edu/topic/robotics)
 - [机器之心](https://www.jiqizhixin.com/)
 - [量子位](https://www.qbitai.com/)
+
+## Insights
+- [博士这五年 - 李沐](https://zhuanlan.zhihu.com/p/25099638)
+- [博士第五年 - 杨硕](https://zhuanlan.zhihu.com/p/631748171)
+- [The Ph.D. Grinding - Philip J. Guo](https://www.dropbox.com/scl/fi/g8mc1lniyf26opxtrqgna/pguo-PhD-grind.pdf?rlkey=mmj1sryb14hl8o4k9offkyj6u&e=1&dl=0)
+- [Modest Advice - Stephen C. Stearns](https://stearnslab.yale.edu/modest-advice)
+- [博士五年总结 - 田渊栋](https://yuandong-tian.com/blogs/five_year_summary_of_PhD.pdf)
+- [Learning Research - Sida Peng](https://github.com/pengsida/learning_research)
