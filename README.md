@@ -31,6 +31,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [BIROB 2025.03](https://www.sciencedirect.com/science/article/pii/S266737972400055X), A survey on the visual perception of humanoid robot
 
 ### Robot Manipulation Policy
+- [arXiv 2025.07](https://arxiv.org/abs/2507.05331), A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation, [website](https://toyotaresearchinstitute.github.io/lbm1/)
 - [arXiv 2024.05](https://arxiv.org/abs/2405.20321), ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graphs, [website](https://ut-austin-rpl.github.io/ORION-release/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
