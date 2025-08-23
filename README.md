@@ -9,6 +9,7 @@
     - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
     - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
     - [Humanoid Manipulation](#humanoid-manipulation)
+    - [Humanoid VLA](#humanoid-vla)
     - [Legged Robot](#legged-robot)
     - [Others](#others)
   - [Workshops](#workshops)
