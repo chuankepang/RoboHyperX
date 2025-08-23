@@ -63,6 +63,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.02](https://arxiv.org/abs/2502.13134), RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations, [website](https://humanoid-interaction.github.io/), [github](https://github.com/TimerChen/RHINO)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
 
+### Humanoid VLA
+- [arXiv 2025.06](https://arxiv.org/abs/2506.13751), LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction, [website](https://ember-lab-berkeley.github.io/LeVERB-Website/)
+
 ### Legged Robot
 - [arXiv 2025.05](https://arxiv.org/abs/2505.22974), Learning coordinated badminton skills for legged manipulators
 - [arXiv 2024.01](https://arxiv.org/abs/2401.17583), Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion, [website](https://agile-but-safe.github.io/), [github](https://github.com/LeCAR-Lab/ABS)
