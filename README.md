@@ -25,6 +25,7 @@
 <!-- (- [](), [](), []() ) -->
 
 ### Surveys
+- [arXiv 2025.08](https://arxiv.org/abs/2508.13073), Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey
 - [arXiv 2025.07](https://arxiv.org/abs/2404.19664), Towards Generalist Robot Learning from Internet Video: A Survey
 - [arXiv 2025.07](https://arxiv.org/abs/2507.00917), A Survey: Learning Embodied Intelligence from
 Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
