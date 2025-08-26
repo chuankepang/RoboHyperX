@@ -6,6 +6,7 @@
   - [Papers](#papers)
     - [Surveys](#Surveys)
     - [Robot Manipulation Policy](#robot-manipulation-policy)
+    - [Bimanual Manipulation](#bimanual-manipulation)
     - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
     - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
     - [Humanoid Manipulation](#humanoid-manipulation)
