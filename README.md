@@ -282,3 +282,4 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [Modest Advice - Stephen C. Stearns](https://stearnslab.yale.edu/modest-advice)
 - [博士五年总结 - 田渊栋](https://yuandong-tian.com/blogs/five_year_summary_of_PhD.pdf)
 - [Learning Research - Sida Peng](https://github.com/pengsida/learning_research)
+- [TBD](http://www.kktim.cn/doku.php?id=graduate_handbook)
