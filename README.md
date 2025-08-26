@@ -81,7 +81,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2023.12](https://arxiv.org/abs/2312.04393), PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, [website](https://wyhuai.github.io/physhoi-page/), [github](https://github.com/wyhuai/PhysHOI)
 
 ## Workshops
-
+### RSS 2025
 - [[RSS 2025] Benchmarking Robot Manipulation: Improving Interoperability and Modularity](https://www.robot-manipulation.org/events/workshops/rss-2025)
 - [[RSS 2025] 3rd Workshop on Dexterous Manipulation: Learning and Control with Diverse Data](https://dex-manipulation.github.io/rss2025/)
 - [[RSS 2025] Equivariant Systems: Theory and Applications in State Estimation, Artificial Intelligence and Control](https://equisystems.github.io/)
@@ -106,7 +106,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [[RSS 2025] 2nd Workshop on Semantic Reasoning and Goal Understanding in Robotics (SemRob)](https://semrob.github.io/)
 - [[RSS 2025] Space Robotics: Toward the Next Generation of Autonomous Missions](https://albee.github.io/space-robotics-rss/)
 - [[RSS 2025] Structured World Models for Robotic Manipulation](https://swomo-rss.github.io/)
----
+### ICRA 2025
 - [[ICRA 2025] 7th Workshop on Long-Term Human Motion Prediction](https://motionpredictionicra2025.github.io/)
 - [[ICRA 2025] Foundation Models and Neuro-Symbolic AI for Robotics](https://sairlab.org/icra25/)
 - [[ICRA 2025] Human-Centered Robot Learning in the Era of Big Data and Large Models](https://human-cenetered-robot-learning-workshop.github.io/icra-2025/)
@@ -124,7 +124,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [[ICRA 2025] Language and Semantics of Task and Motion Planning](https://dyalab.mines.edu/2025/icra-workshop/)
 - [[ICRA 2025] Reflections on Representations and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2025/)
 - [[ICRA 2025] Beyond the Lab: Robust Planning and Control in Real World Scenarios](https://sites.google.com/view/robust-planning-icra2025-ws)
----
+### RSS 2024
 - [[RSS 2024] 2nd Workshop on Dexterous Manipulation:Design, Perception and Control](https://dex-manipulation.github.io/rss2024)
 - [[RSS 2024] Safety and Normative Behaviors in Human-Robot Interaction](https://sites.google.com/view/safe-hri/)
 - [[RSS 2024] Data Generation for Robotics](https://sites.google.com/view/data-generation-for-robotics/home)
@@ -142,9 +142,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [[RSS 2024] Robotic Tasks and How to Specify Them? — Task Specification for General-Purpose Intelligent Robots](https://sites.google.com/view/rss-taskspec)
 - [[RSS 2024] Towards Safe Autonomy: Emerging Requirements, Definitions, and Methods](https://sites.google.com/view/rss2024-safe-autonomy/home)
 - [[RSS 2024] Semantic Reasoning and Goal Understanding in Robotics (SemRob)](https://semrob.github.io/)
-
----
-
+### RSS 2023
 - [[RSS 2023] Learning Dexterous Manipulation](https://learn-dex-hand.github.io/rss2023/)
 - [[RSS 2023] Articulate Robots: Utilizing Language for Robot Learning](https://sites.google.com/andrew.cmu.edu/rss-2023-articulate-robots/home)
 - [[RSS 2023] Taking Mobile Manipulators into the Real World](https://jhavl.github.io/RealWorldManipulation/)
