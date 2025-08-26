@@ -64,6 +64,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 ### Humanoid Manipulation
 - [arXiv 2025.02](https://arxiv.org/abs/2502.13134), RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations, [website](https://humanoid-interaction.github.io/), [github](https://github.com/TimerChen/RHINO)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 
 ### Humanoid VLA
 - [arXiv 2025.06](https://arxiv.org/abs/2506.13751), LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction, [website](https://ember-lab-berkeley.github.io/LeVERB-Website/)
