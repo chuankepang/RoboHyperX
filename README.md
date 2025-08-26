@@ -42,6 +42,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2023.04](https://arxiv.org/abs/2304.13705), Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [website](https://tonyzhaozh.github.io/aloha/), [github](https://github.com/tonyzhaozh/act)
 - [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
 
+### Bimanual Manipulation
+- [TRO 2024.02](https://ieeexplore.ieee.org/document/10449470), Enabling Versatility and Dexterity of the Dual-Arm Manipulators: A General Framework toward Universal Cooperative Manipulation
+
 ### Vision-Language-Action Model (VLA)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07917), MolmoAct: Action Reasoning Models that can Reason in Space, [website](https://allenai.org/blog/molmoact), [github](https://github.com/allenai/MolmoAct)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.04447), DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge, [website](https://zhangwenyao1.github.io/DreamVLA/), [github](https://github.com/Zhangwenyao1/DreamVLA)
