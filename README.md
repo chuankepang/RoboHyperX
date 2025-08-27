@@ -4,7 +4,8 @@
 
 - [Papers](#papers)
   - [Surveys](#Surveys)
-  - [Robot Manipulation Policy](#robot-manipulation-policy)
+  - [IL for Manipulation](#il-for-manipulation)
+  - [RL for Manipulation](#rl-for-manipulation)
   - [Bimanual Manipulation](#bimanual-manipulation)
   - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
   - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
@@ -36,7 +37,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.01](https://arxiv.org/abs/2501.02116), Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
 - [BIROB 2025.03](https://www.sciencedirect.com/science/article/pii/S266737972400055X), A survey on the visual perception of humanoid robot
 
-### Robot Manipulation Policy
+### IL for Manipulation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.05331), A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation, [website](https://toyotaresearchinstitute.github.io/lbm1/)
 - [arXiv 2024.05](https://arxiv.org/abs/2405.20321), ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graphs, [website](https://ut-austin-rpl.github.io/ORION-release/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.07864), RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation, [website](https://rdt-robotics.github.io/rdt-robotics/), [github](https://github.com/thu-ml/RoboticsDiffusionTransformer)
@@ -45,6 +46,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2023.10](https://arxiv.org/abs/2302.12422), MimicPlay: Long-Horizon Imitation Learning by Watching Human Play, [website](https://mimic-play.github.io/), [github](https://github.com/j96w/MimicPlay)
 - [arXiv 2023.04](https://arxiv.org/abs/2304.13705), Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [website](https://tonyzhaozh.github.io/aloha/), [github](https://github.com/tonyzhaozh/act)
 - [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
+
+### RL for Manipulation
+- [arXiv 2023.03](https://arxiv.org/abs/2410.21845), Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning, [website](https://hil-serl.github.io/), [github](https://github.com/rail-berkeley/hil-serl)
 
 ### Bimanual Manipulation
 - [TRO 2024.02](https://ieeexplore.ieee.org/document/10449470), Enabling Versatility and Dexterity of the Dual-Arm Manipulators: A General Framework toward Universal Cooperative Manipulation
