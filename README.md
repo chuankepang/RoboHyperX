@@ -48,7 +48,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2023.03](https://arxiv.org/abs/2303.04137v5), Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/), [github](https://github.com/real-stanford/diffusion_policy)
 
 ### RL for Manipulation
-- [arXiv 2023.03](https://arxiv.org/abs/2410.21845), Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning, [website](https://hil-serl.github.io/), [github](https://github.com/rail-berkeley/hil-serl)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.21845), Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning, [website](https://hil-serl.github.io/), [github](https://github.com/rail-berkeley/hil-serl)
 
 ### Bimanual Manipulation
 - [TRO 2024.02](https://ieeexplore.ieee.org/document/10449470), Enabling Versatility and Dexterity of the Dual-Arm Manipulators: A General Framework toward Universal Cooperative Manipulation
