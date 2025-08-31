@@ -74,6 +74,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
 
 ### Humanoid Manipulation
+- [arXiv 2025.06](https://arxiv.org/abs/2506.05064), DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration, [website](https://demospeedup.github.io/)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.13134), RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations, [website](https://humanoid-interaction.github.io/), [github](https://github.com/TimerChen/RHINO)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
