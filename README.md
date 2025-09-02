@@ -12,6 +12,7 @@
   - [Humanoid Manipulation](#humanoid-manipulation)
   - [Humanoid VLA](#humanoid-vla)
   - [Legged Robot](#legged-robot)
+  - [Wheel-Legged Robot](#wheel-legged-robot)
   - [Others](#others)
 - [Workshops](#workshops)
   - [RSS 2025](#rss-2025)
