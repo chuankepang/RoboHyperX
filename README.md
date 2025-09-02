@@ -7,7 +7,7 @@
   - [IL for Manipulation](#il-for-manipulation)
   - [RL for Manipulation](#rl-for-manipulation)
   - [Bimanual Manipulation](#bimanual-manipulation)
-  - [World Model for Manipulation](world-model-for-manipulation)
+  - [World Model for Manipulation](#world-model-for-manipulation)
   - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
   - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
   - [Humanoid Manipulation](#humanoid-manipulation)
