@@ -7,6 +7,7 @@
   - [IL for Manipulation](#il-for-manipulation)
   - [RL for Manipulation](#rl-for-manipulation)
   - [Bimanual Manipulation](#bimanual-manipulation)
+  - [World Model for Manipulation](world-model-for-manipulation)
   - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla))
   - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
   - [Humanoid Manipulation](#humanoid-manipulation)
@@ -53,6 +54,13 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 
 ### Bimanual Manipulation
 - [TRO 2024.02](https://ieeexplore.ieee.org/document/10449470), Enabling Versatility and Dexterity of the Dual-Arm Manipulators: A General Framework toward Universal Cooperative Manipulation
+
+### World Model for Manipulation
+- [arXiv 2025.05](https://arxiv.org/abs/2505.12705), DreamGen: Unlocking Generalization in Robot Learning through Video World Models, [website](https://research.nvidia.com/labs/gear/dreamgen/), [github](https://github.com/nvidia/GR00T-dreams)
+- [arXiv 2025.07](https://arxiv.org/abs/2507.01099), Geometry-aware 4D Video Generation for Robot Manipulation, [website](https://robot4dgen.github.io/), [github](https://github.com/lzylucy/4dgen)
+- [arXiv 2025.07](https://arxiv.org/abs/2506.01943), Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control, [website](https://fuxiao0719.github.io/projects/robomaster/), [github](https://github.com/KwaiVGI/RoboMaster)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.14357), Vid2World: Crafting Video Diffusion Models to Interactive World Models, [website](https://knightnemo.github.io/vid2world/)
+- [arXiv 2023.01](https://arxiv.org/abs/2306.11335), Surfer: Progressive Reasoning with World Models for Robotic Manipulation, [website](https://pzhren.github.io/Surfer/), [github](https://github.com/pzhren/Surfer)
 
 ### Vision-Language-Action Model (VLA)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07917), MolmoAct: Action Reasoning Models that can Reason in Space, [website](https://allenai.org/blog/molmoact), [github](https://github.com/allenai/MolmoAct)
