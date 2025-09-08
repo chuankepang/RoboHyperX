@@ -94,6 +94,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.06](https://arxiv.org/abs/2506.13751), LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction, [website](https://ember-lab-berkeley.github.io/LeVERB-Website/)
 
 ### Legged Robot
+- [arXiv 2025.06](https://arxiv.org/abs/2506.09588), Attention-based map encoding for learning generalized legged locomotion
 - [arXiv 2025.05](https://arxiv.org/abs/2505.22974), Learning coordinated badminton skills for legged manipulators
 - [arXiv 2024.01](https://arxiv.org/abs/2401.17583), Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion, [website](https://agile-but-safe.github.io/), [github](https://github.com/LeCAR-Lab/ABS)
 - [arXiv 2023.09](https://arxiv.org/abs/2309.15462), DTC: Deep Tracking Control
