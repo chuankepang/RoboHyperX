@@ -18,6 +18,7 @@
 - [Workshops](#workshops)
   - [RSS 2025](#rss-2025)
   - [ICRA 2025](#icra-2025)
+  - [IROS 2025](#iros-2025)
   - [RSS 2024](#rss-2024)
   - [RSS 2023](#rss-2023)
 - [Pub-list](#conferences--journals)
