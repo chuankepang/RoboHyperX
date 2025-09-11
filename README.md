@@ -83,6 +83,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/), [github](https://github.com/LeCAR-Lab/FALCON/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24198), Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, [website](https://lecar-lab.github.io/SoFTA/), [github](https://github.com/LeCAR-Lab/SoFTA)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
+- HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit (RL)
 
 ### Humanoid Manipulation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.05064), DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration, [website](https://demospeedup.github.io/)
