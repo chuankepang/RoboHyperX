@@ -81,6 +81,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.07](https://arxiv.org/abs/2507.06905), ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, [website](https://ulc-humanoid.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.02833), TWIST: Teleoperated Whole-Body Imitation System, [website](https://yanjieze.com/TWIST/), [github](https://github.com/YanjieZe/TWIST)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/), [github](https://github.com/LeCAR-Lab/FALCON/)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.07294), HuB: Learning Extreme Humanoid Balance, [website](https://hub-robot.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24198), Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, [website](https://lecar-lab.github.io/SoFTA/), [github](https://github.com/LeCAR-Lab/SoFTA)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
 - HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit (RL)
