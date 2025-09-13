@@ -84,7 +84,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.05](https://arxiv.org/abs/2505.07294), HuB: Learning Extreme Humanoid Balance, [website](https://hub-robot.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24198), Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, [website](https://lecar-lab.github.io/SoFTA/), [github](https://github.com/LeCAR-Lab/SoFTA)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
-- HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit (RL)
+- [arXiv 2025.02](https://arxiv.org/abs/2502.13013), HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit (RL), [website](https://homietele.github.io/), [github](https://github.com/InternRobotics/OpenHomie)
 
 ### Humanoid Manipulation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.05064), DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration, [website](https://demospeedup.github.io/)
