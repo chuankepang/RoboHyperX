@@ -4,6 +4,7 @@
 
 - [Papers](#papers)
   - [Surveys](#Surveys)
+  - [Benchmarks](#benchmarks)
   - [IL for Manipulation](#il-for-manipulation)
   - [RL for Manipulation](#rl-for-manipulation)
   - [Bimanual Manipulation](#bimanual-manipulation)
@@ -40,6 +41,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.01](https://arxiv.org/abs/2501.02116), Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
 - [BIROB 2025.03](https://www.sciencedirect.com/science/article/pii/S266737972400055X), A survey on the visual perception of humanoid robot
 
+### Benchmarks
+- [arXiv 2023.10](https://arxiv.org/abs/2306.03310), LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning, [website](https://libero-project.github.io/main.html), [github](https://github.com/Lifelong-Robot-Learning/LIBERO)
+
 ### IL for Manipulation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.05331), A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation, [website](https://toyotaresearchinstitute.github.io/lbm1/)
 - [arXiv 2024.05](https://arxiv.org/abs/2405.20321), ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graphs, [website](https://ut-austin-rpl.github.io/ORION-release/)
@@ -75,7 +79,8 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ### Humanoid Loco-Manipulation (WBC)
-- [arXiv 2025.05](https://arxiv.org/abs/2505.03729), VideoMimic Visual imitation enables contextual humanoid control, [website](https://www.videomimic.net/), [github](https://github.com/hongsukchoi/VideoMimic)
+- [arXiv 2025.09](https://arxiv.org/abs/2509.16757), HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos, [website](https://hdmi-humanoid.github.io/#/), [github](https://github.com/LeCAR-Lab/HDMI)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.03729), VideoMimic: Visual imitation enables contextual humanoid control, [website](https://www.videomimic.net/), [github](https://github.com/hongsukchoi/VideoMimic)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.21043), HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning, [website](https://humanoid-table-tennis.github.io/)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.08241), BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion, [website](https://beyondmimic.github.io/), [github](https://github.com/HybridRobotics/whole_body_tracking)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.06905), ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, [website](https://ulc-humanoid.github.io/)
