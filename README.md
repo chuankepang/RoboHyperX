@@ -15,6 +15,7 @@
   - [Humanoid VLA](#humanoid-vla)
   - [Legged Robot](#legged-robot)
   - [Wheel-Legged Robot](#wheel-legged-robot)
+  - [Foundation Model](#foundation-model)
   - [Others](#others)
 - [Workshops](#workshops)
   - [RSS 2025](#rss-2025)
@@ -114,6 +115,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 
 ### Wheel-Legged Robot
 - [arXiv 2024.05](https://arxiv.org/abs/2405.01792), Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots
+
+### Foundation Model
+- [arXiv 2025.01](https://arxiv.org/abs/2501.12375), Video Depth Anything: Consistent Depth Estimation for Super-Long Videos, [website](https://videodepthanything.github.io/), [github](https://github.com/DepthAnything/Video-Depth-Anything)
 
 ### Others
 - [arXiv 2023.12](https://arxiv.org/abs/2312.04393), PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, [website](https://wyhuai.github.io/physhoi-page/), [github](https://github.com/wyhuai/PhysHOI)
