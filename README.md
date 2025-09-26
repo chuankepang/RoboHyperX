@@ -62,6 +62,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [TRO 2024.02](https://ieeexplore.ieee.org/document/10449470), Enabling Versatility and Dexterity of the Dual-Arm Manipulators: A General Framework toward Universal Cooperative Manipulation
 
 ### World Model for Manipulation
+- [arXiv 2025.08](https://arxiv.org/abs/2509.00361), Generative Visual Foresight Meets Task-Agnostic Pose Estimation in Robotic Table-top Manipulation, [website](https://clearlab-sustech.github.io/gvf-tape/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12705), DreamGen: Unlocking Generalization in Robot Learning through Video World Models, [website](https://research.nvidia.com/labs/gear/dreamgen/), [github](https://github.com/nvidia/GR00T-dreams)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.01099), Geometry-aware 4D Video Generation for Robot Manipulation, [website](https://robot4dgen.github.io/), [github](https://github.com/lzylucy/4dgen)
 - [arXiv 2025.07](https://arxiv.org/abs/2506.01943), Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control, [website](https://fuxiao0719.github.io/projects/robomaster/), [github](https://github.com/KwaiVGI/RoboMaster)
