@@ -1,4 +1,4 @@
-# 🤖RoboHyperX🤖
+# RoboHyperX
 
 **Basic Info**. This repo collects curated academic papers, knowledge, and resources about robot learning.
 
@@ -81,6 +81,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ### Humanoid Loco-Manipulation (WBC)
+- [arXiv 2025.07](https://www.arxiv.org/abs/2506.07876), Versatile Loco-Manipulation through Flexible Interlimb Coordination, [website](https://relic-locoman.rai-inst.com/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16757), HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos, [website](https://hdmi-humanoid.github.io/#/), [github](https://github.com/LeCAR-Lab/HDMI)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.03729), VideoMimic: Visual imitation enables contextual humanoid control, [website](https://www.videomimic.net/), [github](https://github.com/hongsukchoi/VideoMimic)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.21043), HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning, [website](https://humanoid-table-tennis.github.io/)
