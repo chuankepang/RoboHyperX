@@ -81,6 +81,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ### Humanoid Loco-Manipulation (WBC)
+- [arXiv 2025.06](https://arxiv.org/abs/2506.12851), KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, [website](https://kungfu-bot.github.io/), [github](https://github.com/TeleHuman/PBHC)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16638), KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control, [website](https://kungfubot2-humanoid.github.io/), [github](https://github.com/TeleHuman/PBHC)
 - [arXiv 2025.07](https://www.arxiv.org/abs/2506.07876), Versatile Loco-Manipulation through Flexible Interlimb Coordination, [website](https://relic-locoman.rai-inst.com/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16757), HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos, [website](https://hdmi-humanoid.github.io/#/), [github](https://github.com/LeCAR-Lab/HDMI)
