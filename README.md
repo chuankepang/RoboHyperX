@@ -70,6 +70,8 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2023.01](https://arxiv.org/abs/2306.11335), Surfer: Progressive Reasoning with World Models for Robotic Manipulation, [website](https://pzhren.github.io/Surfer/), [github](https://github.com/pzhren/Surfer)
 
 ### Vision-Language-Action Model (VLA)
+- [arXiv 2025.07](https://arxiv.org/abs/2507.01961), AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation, [website](https://ac-dit.github.io/), [github](https://github.com/PKU-HMI-Lab/AC-DiT)
+- [arXiv 2025.09](https://arxiv.org/abs/2509.26642), MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation, [website](https://sites.google.com/view/open-mla), [github](https://github.com/ZhuoyangLiu2005/MLA)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07917), MolmoAct: Action Reasoning Models that can Reason in Space, [website](https://allenai.org/blog/molmoact), [github](https://github.com/allenai/MolmoAct)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.04447), DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge, [website](https://zhangwenyao1.github.io/DreamVLA/), [github](https://github.com/Zhangwenyao1/DreamVLA)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.07961), BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models, [website](https://bridgevla.github.io/home_page.html), [github](https://github.com/BridgeVLA/BridgeVLA)
