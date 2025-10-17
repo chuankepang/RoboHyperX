@@ -83,6 +83,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ### Humanoid Loco-Manipulation (WBC)
+- [arXiv 2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/), [github](https://github.com/InternRobotics/AdaMimic)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.05070v2), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, [website](https://resmimic.github.io/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
 - [arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [github](https://github.com/Sirui-Xu/InterMimic)
