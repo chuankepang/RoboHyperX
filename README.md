@@ -83,6 +83,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ### Humanoid Loco-Manipulation (WBC)
+- [arXiv 2025.10](https://arxiv.org/abs/2510.14293), COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying, [website](https://yushi-du.github.io/COLA/), [github](https://github.com/Yushi-Du/COLA_Code)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System, [website](https://why618188.github.io/physhsi/), [github](https://github.com/InternRobotics/PhysHSI)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/), [github](https://github.com/InternRobotics/AdaMimic)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.05070v2), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, [website](https://resmimic.github.io/)
