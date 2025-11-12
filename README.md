@@ -84,6 +84,10 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/), [github](https://github.com/openvla/openvla)
 
 ### Humanoid Loco-Manipulation (WBC)
+- [arXiv 2025.11](https://arxiv.org/abs/2511.07820), SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control, [website](https://nvlabs.github.io/SONIC/)
+- [arXiv 2025.11](https://arxiv.org/abs/2511.04131), BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning, [website](https://lecar-lab.github.io/BFM-Zero/), [github](https://github.com/LeCAR-Lab/BFM-Zero)
+- [arXiv 2025.10](https://arxiv.org/abs/2510.11682), Ego-VCP: Ego-Vision World Model for Humanoid Contact Planning, [website](https://ego-vcp.github.io/), [github](https://github.com/HybridRobotics/Ego-VCP)
+- [arXiv 2025.11](https://arxiv.org/abs/2511.02832), TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System, [website](https://yanjieze.com/TWIST2/), [github](https://github.com/amazon-far/TWIST2)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14293), COLA: Learning Human-Humanoid Coordination for Collaborative Object Carrying, [website](https://yushi-du.github.io/COLA/), [github](https://github.com/Yushi-Du/COLA_Code)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System, [website](https://why618188.github.io/physhsi/), [github](https://github.com/InternRobotics/PhysHSI)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/), [github](https://github.com/InternRobotics/AdaMimic)
@@ -107,6 +111,7 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/), [github](https://github.com/LeCAR-Lab/ASAP)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.13013), HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit (RL), [website](https://homietele.github.io/), [github](https://github.com/InternRobotics/OpenHomie)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03206), HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion, [website](https://hugwbc.github.io/), [github](https://github.com/apexrl/HugWBC)
+- [arXiv 2023.05](https://arxiv.org/abs/2305.06456), Perpetual Humanoid Control for Real-time Simulated Avatars, [website](https://www.zhengyiluo.com/PHC-Site/), [github](https://github.com/ZhengyiLuo/PerpetualHumanoidControl)
 
 ### Humanoid Manipulation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.05064), DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration, [website](https://demospeedup.github.io/)
