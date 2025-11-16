@@ -12,7 +12,7 @@
   - [Vision-Language-Action Model (VLA)](#vision-language-action-model-vla)
   - [Humanoid Loco-Manipulation](#humanoid-loco-manipulation-wbc)
   - [Humanoid Manipulation](#humanoid-manipulation)
-  - [Humanoid VLA](#humanoid-vla)
+  - [Humanoid Foundation Model](#humanoid-foundation-model)
   - [Legged Robot](#legged-robot)
   - [Wheel-Legged Robot](#wheel-legged-robot)
   - [Foundation Model](#foundation-model)
@@ -119,7 +119,9 @@ Physical Simulators and World Models, [github](https://github.com/NJU3DV-LoongGr
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/), [github](https://github.com/UT-Austin-RPL/OKAMI)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.10803v2), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/), [github](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 
-### Humanoid VLA
+### Humanoid Foundation Model
+- [arXiv 2025.11](https://arxiv.org/abs/2511.07820), SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control, [website](https://nvlabs.github.io/SONIC/)
+- [arXiv 2025.11](https://arxiv.org/abs/2511.04131), BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning, [website](https://lecar-lab.github.io/BFM-Zero/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.14734), GR00T N1: An Open Foundation Model for Generalist Humanoid Robots, [website](https://developer.nvidia.com/isaac/gr00t), [github](https://github.com/NVIDIA/Isaac-GR00T)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.13751), LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction, [website](https://ember-lab-berkeley.github.io/LeVERB-Website/)
 
